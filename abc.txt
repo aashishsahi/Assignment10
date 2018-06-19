@@ -1,0 +1,1 @@
+Contents of abc file. Which will be copied to xyz file.
